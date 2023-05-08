@@ -34,7 +34,7 @@ export const RegisterForm = () => {
       </Label>
       <Label>
         <Span>Password</Span>
-        <Input type="text" name="password" />
+        <Input type="password" name="password" />
       </Label>
       <Button type="submit">Register</Button>
     </Form>

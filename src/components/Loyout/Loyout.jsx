@@ -21,7 +21,6 @@ export const Layout = () => {
           </FooterLink>
         </Footer>
       </Suspense>
-      {/* <Toaster position="top-right" reverseOrder={false} /> */}
     </div>
   );
 };
